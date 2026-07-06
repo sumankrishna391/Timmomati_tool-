@@ -1,4 +1,4 @@
-# Timmomati_tool
+# Timmomatic_tool
 Use of Timmomatic tool for the removal of poor-quality reads
 
 # Software Requirements
